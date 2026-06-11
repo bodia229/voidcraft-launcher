@@ -1,0 +1,845 @@
+{
+  "id": "technomagia",
+  "name": "TechnoMagia",
+  "version": "0.2.30",
+  "mcVersion": "1.12.2",
+  "forgeVersion": "14.23.5.2860",
+  "description": "TechnoMagia 0.2.30",
+  "releaseNotes": "",
+  "java": {
+    "major": 8,
+    "downloadUrl": "auto"
+  },
+  "files": [
+    {
+      "path": "mods/1.12.2DamageIndicatorsMod_3.5.1.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__1.12.2DamageIndicatorsMod_3.5.1.jar",
+      "sha256": "4150b8b73313c9134ab412e935e6c3d9b3def3e18e84c7f5dd105f95e428b808",
+      "size": 285416,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/1.12ArmorStatusHUD_client_1.43.0.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__1.12ArmorStatusHUD_client_1.43.0.jar",
+      "sha256": "8145ac66aaf02c0b4201f3296e47c71870857e3c4590b4406c10c789264c909b",
+      "size": 29153,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/abyssaldepths-1.12.2-0.3.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__abyssaldepths-1.12.2-0.3.2.jar",
+      "sha256": "c59ecef345bcb3a84d922782488caff684c0eaa1ab4051bad4dab49bc3b8e8f2",
+      "size": 365884,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/additionalpipes-6.0.0.8.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__additionalpipes-6.0.0.8.jar",
+      "sha256": "175bd7e1d455d93d7f3b9d3edbcab823c653f386cd9b46e319afe8c786bc1c4f",
+      "size": 227670,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/advancedmachines-61.0.1.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__advancedmachines-61.0.1.jar",
+      "sha256": "6092ffec5a1eff36c0a03225a46d45eb74fd7986023789391626c60437e4d9c4",
+      "size": 190539,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/advancedsolarpanels-4.3.0.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__advancedsolarpanels-4.3.0.jar",
+      "sha256": "6530286f2cd6545f4d7b510d64199a1ec5a4f77915fea2f7274c9a0fbdbc011a",
+      "size": 316833,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/AE2WTLib-1.12.2-1.0.34.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__AE2WTLib-1.12.2-1.0.34.jar",
+      "sha256": "6d0ec545bf94e6142b4140f910aae4114b1f92298e820c12fa91af35a3c90d60",
+      "size": 243622,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/AETHER.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__AETHER.jar",
+      "sha256": "37c714023f40bf9ff8bf94d5f11d007a462605c049284de0e16883bd8df465d3",
+      "size": 38067778,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/aiimprovements-1.12-0.0.1b3.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__aiimprovements-1.12-0.0.1b3.jar",
+      "sha256": "787fdcd860c226e7017a806fb9a48ee10ed9bbffb275e91207635d421d7e26da",
+      "size": 7266,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/appliedenergistics2_rv6_stable_7.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__appliedenergistics2_rv6_stable_7.jar",
+      "sha256": "e7f7fbf6caaf6206dbd958fb8f9185f874a405289e62ae3e97209b455a89fb1a",
+      "size": 4062630,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/ATUM 2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__ATUM.2.jar",
+      "sha256": "aeba75b49e70db1a343f0bf64cc4771a3d23aefaf9731d26cc4f096f596f95f6",
+      "size": 2680904,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/B.A.S.E-1.12.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__B.A.S.E-1.12.jar",
+      "sha256": "5c9fd7ce9d2b75d7b8e93079e07ebd30a1cde116683b153cba6102cfce0d9f9a",
+      "size": 406165,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/backpack_3.0.2_1.12.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__backpack_3.0.2_1.12.2.jar",
+      "sha256": "f0c699d83808fe952357b77b5396746cf55b7bdbe28a43800ba3a1f1091df41e",
+      "size": 236435,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/BAUBLES [LIB].jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__BAUBLES.LIB.jar",
+      "sha256": "b32010b2f2778aa1188585e7ead91ad46d4cb2c715f9c778a61848ba7fe51f8d",
+      "size": 108450,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/BetterFps_1.12.2_1.4.8.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__BetterFps_1.12.2_1.4.8.jar",
+      "sha256": "93f2496bded8f622d31d7b4b634766166c8d52dfca6e21cd9f46c445a468a381",
+      "size": 155196,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/BetterQuesting-3.5.329.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__BetterQuesting-3.5.329.jar",
+      "sha256": "f7803b91d54b98eb54b3e2f12143866e68a46e3f963d51997d1a1195b8469ba7",
+      "size": 1425671,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/BiblioCraftv2.4.5MC1.12.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__BiblioCraftv2.4.5MC1.12.2.jar",
+      "sha256": "b3aab967cf9a2fcaf1330b5a5997f8d31e7a73884eac7451f1f31b2fa1394add",
+      "size": 5122856,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/BIOMES_O_PLENTY.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__BIOMES_O_PLENTY.jar",
+      "sha256": "ce4ae713d17d79b1a38e252007100b78dc551f22e96ec249b66f6d9d064ee0a6",
+      "size": 4696290,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/BLOODMAGIC.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__BLOODMAGIC.jar",
+      "sha256": "ef187aea109446bdb7b35e06958d4c6d22f5f7ceb4e5bcaeab16f3ad29fe16a5",
+      "size": 7208594,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/Bookshelf_1.12.2_2.3.590.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__Bookshelf_1.12.2_2.3.590.jar",
+      "sha256": "043afbddfd567e753a893f5a8f0e052db7c45209a08d09d9dcf32cadca764109",
+      "size": 266636,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/Botania_1.12.2_r1.10_363.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__Botania_1.12.2_r1.10_363.jar",
+      "sha256": "e31c3aebdf631ebd68032d39cb02558db35841a55d568165efce7fdad64e9cd4",
+      "size": 13814617,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/bspkrscore-1_12_2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__bspkrscore-1_12_2.jar",
+      "sha256": "2d7e9066c4394a8ba4725b6f0ca44c8a7999b9fdda4a3996d01dc526fc64095d",
+      "size": 65907,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/BTW_LANDS.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__BTW_LANDS.jar",
+      "sha256": "7592c972cfffc4213f509302217d05408536e7e3999bd9c489255a7c7f9e7c3f",
+      "size": 89337016,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/buildcraft_all_7.99.24.8_1.12.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__buildcraft_all_7.99.24.8_1.12.2.jar",
+      "sha256": "c8b0e0ae0cd52e8217185e8e6e603d37c95158d9e3701c1dae7bb927cee6b4ec",
+      "size": 4879732,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/Chisel-MC1.12.2-1.0.2.45.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__Chisel-MC1.12.2-1.0.2.45.jar",
+      "sha256": "64c62f20a89939db2c03d47737c7bd371d8bd8c10ae42e2e8c63432ae89db2c7",
+      "size": 4755282,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/Clumps-1.12.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__Clumps-1.12.jar",
+      "sha256": "0d8f63c23a8322a7b7b3c98af73d68e564dab5cf81db8ce989a605f982db910e",
+      "size": 13778,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/CodeChickenLib_1.12.2_3.2.3.358_universal.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__CodeChickenLib_1.12.2_3.2.3.358_universal.jar",
+      "sha256": "5f8499f7ee2590e45110bbf296b2bf101aec15897e28d5e9759cf8f2387d8a74",
+      "size": 704330,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__CoFHCore-1.12.2-4.6.6.1-universal.jar",
+      "sha256": "e07b0c48def9ce8cfaa4cf7a7c656bf7f7d6815f74fbcc2957dd43efa78486a9",
+      "size": 848187,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+      "sha256": "f10cd57075690ecbe52094f8af0d2a5af12f89c82b7c6eb73d3d090d74206ea0",
+      "size": 505987,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/compactsolars-1.12.2-5.0.18.341-universal.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__compactsolars-1.12.2-5.0.18.341-universal.jar",
+      "sha256": "7c04dd28880aa36f8c13276ff8e7bc4c26855bf154e5878c2130869e554c97ac",
+      "size": 73134,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/CoralReef_2.5_1.12.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__CoralReef_2.5_1.12.2.jar",
+      "sha256": "9398f88caa92f976eb765ac121aaa17fef94b0ac461aafa372b2c3874e246195",
+      "size": 73465,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/CTM-MC1.12.2-1.0.2.31.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__CTM-MC1.12.2-1.0.2.31.jar",
+      "sha256": "433f441dc9c0aa75a4168df832900720ddadac1f22cc3bba4e4f25ca789b268b",
+      "size": 199045,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/CustomLoadingScreen-1.12.2-1.5.9.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__CustomLoadingScreen-1.12.2-1.5.9.jar",
+      "sha256": "4a00498619ce464376bc1d0c2a1267128f1955062973b7db2bb5a8a0f2afd3be",
+      "size": 982649,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__CustomMainMenu-MC1.12.2-2.0.9.1.jar",
+      "sha256": "63b8e4d86b336739c9df8275d28e61519c73c815d0ba9ec18fb8d0cf8a218488",
+      "size": 91121,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/CustomMobSpawner-1.12.2-3.11.4.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__CustomMobSpawner-1.12.2-3.11.4.jar",
+      "sha256": "c0c072b7d1ccf0f5179d5b5582f948de24c41fc4d2d786ecd80286eb6df38bd6",
+      "size": 722239,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/DivineRPG_1.12.2_1.7.1.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__DivineRPG_1.12.2_1.7.1.jar",
+      "sha256": "6a220de5ccde3580f44e113d3e89ade6e9196a11799fc6c3c03fbfd5a520a491",
+      "size": 18732935,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/DrZharks-MoCreatures-1.12.2-12.0.5.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__DrZharks-MoCreatures-1.12.2-12.0.5.jar",
+      "sha256": "87483e867f7719ee85587343ef7b9748059f053f8dc9934cae80f348b8ab6c86",
+      "size": 22440403,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/DungeonTactics_1.12.2_0.16.9.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__DungeonTactics_1.12.2_0.16.9.jar",
+      "sha256": "a8b9d2e7645ff66ade494c4e5c47f541db775f8de6cdb5db5fbb5fef80737287",
+      "size": 2797080,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/DynamicSurroundings-1.12.2-3.6.3.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__DynamicSurroundings-1.12.2-3.6.3.jar",
+      "sha256": "e5c9fbc101dae923a49800761c901831c1f085685c20a229d7dcf98f37d70b85",
+      "size": 15778870,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/EnergyControl-1.12.2-0.1.11.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__EnergyControl-1.12.2-0.1.11.jar",
+      "sha256": "0d0e748a5d965fb770f25a247a9045d5ab2b8777b316718f0e2ba716fcd13528",
+      "size": 1421370,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/ExtraCells-1.12.2-2.6.7.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__ExtraCells-1.12.2-2.6.7.jar",
+      "sha256": "44b181503bdc84349cf56a9aff268daac870b7292a236b29f3e9817029db864e",
+      "size": 2570450,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/extracpus-1.12.2-1.2.0.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__extracpus-1.12.2-1.2.0.jar",
+      "sha256": "1726c74dfb33a37cbb1a1c9074211a8a2285f2ba573df4bb131a3dfc44d06c90",
+      "size": 43414,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/factorytech_1.12.2_1.7.1.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__factorytech_1.12.2_1.7.1.jar",
+      "sha256": "060e9127986752018dac49005c4dcece27bb0c0cd2abbf614c00d116be698477",
+      "size": 2654826,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/fastfurnace-1.12.2-1.3.1.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__fastfurnace-1.12.2-1.3.1.jar",
+      "sha256": "61362af8dd5de20a6f5b7ab9c2f95cfaec911a0ab428c7b469e8d2a7ff89c89d",
+      "size": 10035,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/fastworkbench-1.12.2-1.7.4.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__fastworkbench-1.12.2-1.7.4.jar",
+      "sha256": "db86c2c728c148ff20e4349fa18767853326ec78e6581afb0c38954fe2abf42a",
+      "size": 26635,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/foamfix-0.9.9.1-1.12.2-anarchy.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__foamfix-0.9.9.1-1.12.2-anarchy.jar",
+      "sha256": "990739a8641e9c61d5721bee9aaa79d616c5f70e67281c9a76bc73839d1963fa",
+      "size": 206359,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/forestry_1.12.2_5.8.2.414.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__forestry_1.12.2_5.8.2.414.jar",
+      "sha256": "753c6cc3608c619878b5fbc7026f7698f70e6e20bccba62e61563728a1a36cd3",
+      "size": 5291127,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/FTBLib-5.4.7.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__FTBLib-5.4.7.2.jar",
+      "sha256": "623fc574f0227fec6cc9e26c3879a605f9b4499c0078ff085291901a5495a6ac",
+      "size": 934370,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/FTBUtilities-5.4.1.131.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__FTBUtilities-5.4.1.131.jar",
+      "sha256": "e458fe39aba9ba28122496e54f826e4f61df515ed1f8d0c70cc9e56f67a5404a",
+      "size": 425832,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/furniture_6.3.0_1.12.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__furniture_6.3.0_1.12.2.jar",
+      "sha256": "7eb590003d87cf23caa4d084c6cadd1363be2481e7096687a412c40f505ce14c",
+      "size": 2454924,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/gravestone_mc1.12.2_1.10.0.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__gravestone_mc1.12.2_1.10.0.jar",
+      "sha256": "b1ba35c3950b1aa9e51966d078fd702281292106db8f3cc9ae72c9d46991e50e",
+      "size": 76712,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/GraviSuite-Patcher-1.0.0.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__GraviSuite-Patcher-1.0.0.jar",
+      "sha256": "a2a5204d41a6af76406e3a37de27ae07c79979cd29111a97d5581430b06d1f34",
+      "size": 11851,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/gravitationsuite-3.1.1.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__gravitationsuite-3.1.1.jar",
+      "sha256": "ebe327325374661a988798f4179041c26ccb74a8ac11170eeadb72af4ee3500d",
+      "size": 345616,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/growthcraft_1.12.2_4.2.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__growthcraft_1.12.2_4.2.2.jar",
+      "sha256": "39dbddf4675f6b1d9893cb08051b703e7a176233245a92e1a3967c27bf36a8da",
+      "size": 2424998,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/GUIDEAPI [LIB].jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__GUIDEAPI.LIB.jar",
+      "sha256": "e201712ef8fadc6c4b6380939751e92fe32cad2ba2dcb717e1acb3b07e0c2125",
+      "size": 169528,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/hearthstonemod-1.12.2-0.4.7.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__hearthstonemod-1.12.2-0.4.7.jar",
+      "sha256": "a0464296d0606a8888b9038396961fc8dfe01c959dfb98179bd524abd682ac24",
+      "size": 166710,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/Hwyla_1.8.26_B41_1.12.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__Hwyla_1.8.26_B41_1.12.2.jar",
+      "sha256": "e9ddecd4920ee9a57e11e4b43fb1dd395bbf37e276be726a99a2590272304124",
+      "size": 453778,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/IncreaseMobs_1.12_v1.0.4.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__IncreaseMobs_1.12_v1.0.4.jar",
+      "sha256": "08ebd3054df0a05fe960713f3274ffdbf399c4bf95ed588426a83888ec0f5a00",
+      "size": 26340,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/industrialcraft-2-2.8.188-ex112.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__industrialcraft-2-2.8.188-ex112.jar",
+      "sha256": "9aed86a1b91ed929ccd21d1ae61cf63c8c232df81f4ff7b9611e008d0df1b00b",
+      "size": 8465870,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/InventoryTweaks_1.12.2_1.64dev.151.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__InventoryTweaks_1.12.2_1.64dev.151.jar",
+      "sha256": "8b3d8f2392e3e455de6c99fac30740f558908c6896adc7dd7948be009b418f52",
+      "size": 286144,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/ironchest_1.12.2_7.0.72.847.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__ironchest_1.12.2_7.0.72.847.jar",
+      "sha256": "29d3a4115d67b83eb542b618eb64db40db23a7f009a0f4dc9a396101d6f8491f",
+      "size": 956692,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/ItemFilters-1.0.4.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__ItemFilters-1.0.4.2.jar",
+      "sha256": "cdffbb810f75db50afce9681374f0604e4c1ed2dcfe768cff5b4e17d5384166b",
+      "size": 78935,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/JEI.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__JEI.jar",
+      "sha256": "9408dea76b43db553f94481a14e930286e0f66a6f17326585d851e4052a9e15c",
+      "size": 647239,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/jetif_1.12.2_1.0.1.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__jetif_1.12.2_1.0.1.jar",
+      "sha256": "aa9ad29aee2fed574781e93ee347605d899846974935ca09e7aaca896aba5ff3",
+      "size": 16361,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/journeymap-1.12.2-5.7.1p3.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__journeymap-1.12.2-5.7.1p3.jar",
+      "sha256": "b72c9dd7e6dd0f7438c01ea8e440519bf4a3c0b47674810929a9c899dc98b406",
+      "size": 6851584,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/logisticspipes-1.12.2-0.10.3.88.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__logisticspipes-1.12.2-0.10.3.88.jar",
+      "sha256": "9ca9b7ece200a397b4774445047d96370b3b1d667b65e1dd029b2a2f0610978f",
+      "size": 8539950,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/MekanismGenerators-1.12.2-9.8.3.390.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__MekanismGenerators-1.12.2-9.8.3.390.jar",
+      "sha256": "2bc1f1b8601abd40180eab9666e34a947d1be9e9b878ffd788d4b44e7713313c",
+      "size": 336364,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/Mekanism_1.12.2_9.8.3.390.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__Mekanism_1.12.2_9.8.3.390.jar",
+      "sha256": "17573e0c3b2ff9d071a719a06a84c8cd89ca26d1ea3bd7f6e9f3842c4df88ea1",
+      "size": 7863657,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/millenaire_1.12.2_8.1.0.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__millenaire_1.12.2_8.1.0.jar",
+      "sha256": "cfde7eef7b1b1ae1ead91593e9b27bc4ad17efd7943ac1bfb03996526f1aeb84",
+      "size": 12934694,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/mystcraft_1.12.2_0.13.7.06.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__mystcraft_1.12.2_0.13.7.06.jar",
+      "sha256": "c11b4ac2e3f3682c154ce6e757580028990c24f78b082bb19199794118b4cfd9",
+      "size": 2349249,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/NoMoreRecipeConflict_1.12_0.9.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__NoMoreRecipeConflict_1.12_0.9.jar",
+      "sha256": "ce23edcffc45ca87baa853bd4bc511765cbf6f1d77fb1c2eb0521b28c74f1ca7",
+      "size": 22582,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/NotEnoughIDs_1.5.4.4.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__NotEnoughIDs_1.5.4.4.jar",
+      "sha256": "f042f90c5623a1f2bbcc1d0bd93cfca40109b9c0659399e1f48aa8ce37b75622",
+      "size": 31782,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/NotEnoughItems_1.12.2_2.4.3.245_universal.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__NotEnoughItems_1.12.2_2.4.3.245_universal.jar",
+      "sha256": "09dbcfbc6136e1d691c3cc79e1f70e9e3aa0864a5b364a34e2a66c84101885e2",
+      "size": 470831,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/optifine_1.12.2_hd_u_f5.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__optifine_1.12.2_hd_u_f5.jar",
+      "sha256": "fc70db439793b257228ad50dbb497dd50e33c3e08f7d0d6b2bba3a7d7c349619",
+      "size": 2598821,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/ORE [LIB].jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__ORE.LIB.jar",
+      "sha256": "4483d8cc2b0334b82b7d0f5bb6354a2020a0e00ce63a48379e8ba5eb7d79eef9",
+      "size": 341728,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/OreExcavation_1.12.2_1.4.140.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__OreExcavation_1.12.2_1.4.140.jar",
+      "sha256": "227bb592e5e06b38357a300a3ea440184558d853f6593ec8799ef7a4c89ad242",
+      "size": 180481,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/p455w0rdslib-1.12.2-2.3.161.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__p455w0rdslib-1.12.2-2.3.161.jar",
+      "sha256": "e5844c044d9f2ce2f23eef84d95eea8cc1f2c5581874bd01410e7d103b90a424",
+      "size": 328793,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/placebo-1.12.2-1.6.1.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__placebo-1.12.2-1.6.1.jar",
+      "sha256": "6fe241d316a61314aad22ab80664a1741a2c8f1b2368d73723b62ecc41dfeb0f",
+      "size": 77207,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/PlayerAPI_1.12.2_1.0.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__PlayerAPI_1.12.2_1.0.jar",
+      "sha256": "de2a2206988b2f045369ee99bea00d753d4e8e8236e2b3c7d03af775be96e8f3",
+      "size": 276819,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/railcraft_12.0.0.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__railcraft_12.0.0.jar",
+      "sha256": "5db83f6a177ac2b143dcb50d0a35c2c0873b7cac6e1d8b58ee577494d5937ed2",
+      "size": 5541089,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/reap_1.12.2_1.5.3.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__reap_1.12.2_1.5.3.jar",
+      "sha256": "844241e21d354cf183f8b1d7151ce434564d523a9f3ee7ac41f958e91fd7772e",
+      "size": 19469,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/RedstoneFlux-1.12-2.1.1.1-universal.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__RedstoneFlux-1.12-2.1.1.1-universal.jar",
+      "sha256": "6ff7f96d076bfaad83fb6ba92ec457b8a76391439663b0cc32a9ec5398345280",
+      "size": 31802,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/ResourceLoader-MC1.12.1-1.5.3.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__ResourceLoader-MC1.12.1-1.5.3.jar",
+      "sha256": "5c5ee114dccab5caca1772e3487eca04e161c494baca4d53c8fddf5cf8722e56",
+      "size": 16612,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/RoguelikeDungeons_1.12.2_1.7.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__RoguelikeDungeons_1.12.2_1.7.2.jar",
+      "sha256": "d9d8d34ff5f7fa49ebbed25713c1fef75250e3fc213377d5b754e796fceb3c88",
+      "size": 662524,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/SolarFluxReborn_1.12.2_12.4.11.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__SolarFluxReborn_1.12.2_12.4.11.jar",
+      "sha256": "be490ddbeb08b35ba76bee38feaae465a9553ba3bcfbe2d5eef83875d5b5eda2",
+      "size": 715629,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/StandardExpansion-3.4.173.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__StandardExpansion-3.4.173.jar",
+      "sha256": "405211aef15d442f857f92c4f755f051396283d6e6fc2de818f4f693091e89f9",
+      "size": 460454,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/TexFix V-1.12-4.0.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__TexFix.V-1.12-4.0.jar",
+      "sha256": "85e47de82982cbc9bebfd9373e47925fee5ec079685a196b814053dce4415272",
+      "size": 7052,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/THAUMCRAFT.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__THAUMCRAFT.jar",
+      "sha256": "9425f8643581b27ff8845b087c8bc6fc10425a32942f1a3f0e265ce6b38f7b5f",
+      "size": 11360786,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/thaumicenergistics_1.12.2_2.2.4.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__thaumicenergistics_1.12.2_2.2.4.jar",
+      "sha256": "5957156e1eaf0af65363e4887ccb0655dad8835a5fed1d586fd4364cf31609b7",
+      "size": 586027,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/ThaumicJEI_1.12.2_1.6.0_27.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__ThaumicJEI_1.12.2_1.6.0_27.jar",
+      "sha256": "b9bef5de98638fe1497cc28de6414860ffc77962d93974d10ba44af3ad77fdce",
+      "size": 59213,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/thermaldynamics-1.12.2-2.5.6.1-universal.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__thermaldynamics-1.12.2-2.5.6.1-universal.jar",
+      "sha256": "ce3f08c8a0f36ba02fceafa47f25e80c7130727bd8e11206b37a4454d51da3b0",
+      "size": 728082,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+      "sha256": "f1cc8aeefcda2c00235bfb5ee7f76d731325aa324e90e84d7d232d88c1e6f472",
+      "size": 2345139,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+      "sha256": "5052f3e308b3ecb6620d26c5ab0cc15c0373732086337483a19fd4447e540ab0",
+      "size": 2219736,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/TWL_FOREST.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__TWL_FOREST.jar",
+      "sha256": "9e8384b2b857ef7afe7f734b83366fb378cb65f7bb12876894ad35e8c0a47035",
+      "size": 28721750,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/UniDict-1.12.2-3.0.10.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__UniDict-1.12.2-3.0.10.jar",
+      "sha256": "003421fa15bc84733343ad26f8bd9387bbd110df6c7ff860cae87ec11f85399d",
+      "size": 225385,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/voidcraft-coremod-0.1.0.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__voidcraft-coremod-0.1.0.jar",
+      "sha256": "0faea2e023883005e3264f3d325cc719935154aebc108dbe838c93767283543f",
+      "size": 382657,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/WailaHarvestability_mc1.12_1.1.12.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__WailaHarvestability_mc1.12_1.1.12.jar",
+      "sha256": "f445cdccfe824a895ace7cb83d29cfb17d5b3c3383949298e44c2da8697237f0",
+      "size": 31462,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/WanionLib-1.12.2-2.6.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__WanionLib-1.12.2-2.6.jar",
+      "sha256": "b9b0c9f2566b8b905582cdc460848e90baac2709298d3a2b30462f4c70bb884d",
+      "size": 216221,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/WirelessCraftingTerminal-1.12.2-3.12.97.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__WirelessCraftingTerminal-1.12.2-3.12.97.jar",
+      "sha256": "69e5b82f33925169e33456a5f6b3202917c06fc34f1f32f71cf553b0733f0114",
+      "size": 242030,
+      "required": true,
+      "side": "both"
+    },
+    {
+      "path": "mods/XL_Food_Mod_1.12.2_1.9.2.jar",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/mods__XL_Food_Mod_1.12.2_1.9.2.jar",
+      "sha256": "94cd0ecbabc102d3ee2103ebef9dcff418e11a3e5f42441dd31a1cc14c3d0366",
+      "size": 400208,
+      "required": true,
+      "side": "both"
+    }
+  ],
+  "archives": [
+    {
+      "name": "config.zip",
+      "extractTo": "config",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/config.zip",
+      "sha256": "eb7dc6622736e148864e88f5f66e1214078d5dca88310c782149d99dbd06a4b9",
+      "size": 4084038
+    },
+    {
+      "name": "resourcepacks.zip",
+      "extractTo": "resourcepacks",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/resourcepacks.zip",
+      "sha256": "2df0e6ef23c6486123cb0882311f0dd593e57bb4f7144cb63798c03942c85399",
+      "size": 2315803
+    },
+    {
+      "name": "resources.zip",
+      "extractTo": "resources",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/resources.zip",
+      "sha256": "ba683e95c63b0e98c226e8dfdd6d75e4912f1f823c01a819bebd8ad4b7a9cfea",
+      "size": 5916723
+    },
+    {
+      "name": "scripts.zip",
+      "extractTo": "scripts",
+      "url": "https://github.com/bodia229/technomagia-modpack1/releases/download/v0.2.30/scripts.zip",
+      "sha256": "26856769accda864539c1b1d1dcc8ab0a43057774017b4d4bd40b917b888b998",
+      "size": 80975
+    }
+  ]
+}

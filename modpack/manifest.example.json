@@ -1,0 +1,28 @@
+{
+  "id": "technomagia",
+  "name": "TechnoMagia",
+  "version": "0.1.0",
+  "mcVersion": "1.12.2",
+  "forgeVersion": "14.23.5.2860",
+  "description": "Tech + Magic expert pack with FTB Quests progression.",
+  "releaseNotes": "Initial release: Mekanism, Thermal, Botania, Thaumcraft 6, Astral Sorcery, Blood Magic.",
+  "java": {
+    "major": 8,
+    "downloadUrl": "auto"
+  },
+  "files": [
+    {
+      "path": "mods/jei-1.12.2-4.16.1.301.jar",
+      "url": "https://github.com/USER/technomagia-modpack/releases/download/v0.1.0/jei-1.12.2-4.16.1.301.jar",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 0,
+      "required": true,
+      "side": "both"
+    }
+  ],
+  "configs": [],
+  "defaultServer": {
+    "name": "TechnoMagia Main",
+    "address": "play.technomagia.example:25565"
+  }
+}

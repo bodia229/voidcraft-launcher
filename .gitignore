@@ -1,0 +1,34 @@
+# Dependencies
+node_modules
+
+# Build output
+out
+release
+dist
+
+# Modpack content — third-party mods/configs, downloaded at runtime, never committed
+pack/
+
+# Build / test artifacts
+.build/
+.test-reports/
+
+# Java/Gradle coremod build output
+coremod-src/**/build/
+coremod-src/**/*.jar
+*.class
+
+# Secrets / environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode
+.idea
+*.swp
